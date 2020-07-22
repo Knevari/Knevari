@@ -11,5 +11,5 @@ I'm Mateus "Knevari" Souza, graduated in Computer Science, sci-fi and fantasy lo
 - I love computer science :computer:
 - I'm a huge Star Wars fan :stars:
 - I love gaming games skype :video_game:
-- I love coding :programmer:
-- I like to build stuff, hard stuff :computercat:
+- I love coding :octocat:
+- I like to build stuff, hard stuff :shipit:
