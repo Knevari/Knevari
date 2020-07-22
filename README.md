@@ -1,16 +1,15 @@
-### Hi there 👋
+Yello World :alien:
+===
 
-<!--
-**Knevari/Knevari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Knevari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knevari/)](https://www.linkedin.com/in/knevari/)
+![Gmail Badge](https://img.shields.io/badge/-mateus7319@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateus7319@gmail.com)
+![Github Followews Badge](https://img.shields.io/github/followers/knevari?label=Followers&style=social)
 
-Here are some ideas to get you started:
+I'm Mateus "Knevari" Souza, graduated in Computer Science, sci-fi and fantasy lover, I like to know and build stuff and I hope you like me too!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a geek :rocket:
+- I love computer science :computer:
+- I'm a huge Star Wars fan :stars:
+- I love gaming games skype :video_game:
+- I love coding :programmer:
+- I like to build stuff, hard stuff :computercat:
