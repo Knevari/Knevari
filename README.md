@@ -5,7 +5,9 @@
 > Currently architecting the future of gaming at **[N3MUS](https://n3mus.com)**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Knevari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knevari/)
+
 [![Email](https://img.shields.io/badge/Email-mateus7319%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus7319@gmail.com)
+
 [![Website](https://img.shields.io/badge/Portfolio-knevari.com-101010?style=for-the-badge&logo=vercel&logoColor=white)](https://www.knevari.com/)
 
 ---
