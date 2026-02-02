@@ -19,7 +19,4 @@
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Thirdweb](https://img.shields.io/badge/Thirdweb-f213c4?style=flat&logo=thirdweb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
-### Github Stats
-![Knevari's GitHub stats](https://github-readme-stats.vercel.app/api?username=knevari&show_icons=true&theme=dark&hide_border=true&bg_color=101010&title_color=32C0F0&text_color=ffffff&icon_color=32FF5F)
-
 *"Architecting the Event Horizon of Web3."* 🌌
